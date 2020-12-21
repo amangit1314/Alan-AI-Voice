@@ -11,6 +11,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  //This is a widget of you app
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
